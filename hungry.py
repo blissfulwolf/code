@@ -11,4 +11,8 @@ else:
     if thirsty=="yes":
         print("drink water")
         print("drink soda")
+else:
+    tired=input("are you tired")
+    if tired=="yes":
+        print("Go to sleep")
  
