@@ -1,7 +1,3 @@
-
-
-
-hungry = input("are you hungry")
 if hungry=="yes":
     print("eat burger")
     print("eat pizza")
@@ -10,4 +6,5 @@ else:
     if thirsty=="yes":
         print("drink water")
         print("drink soda")
- 
+else:
+    sleepy:input("are you going home") 
